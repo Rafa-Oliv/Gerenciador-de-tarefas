@@ -16,7 +16,7 @@ Este é um simples gerenciador de tarefas feito em Python, utilizando SQLite par
 
     ```sh
     git clone https://github.com/Rafa-Oliv/Gerenciador-de-tarefas.git
-    cd task-manager
+    cd Gerenciador-de-tarefas
     ```
 
 2. Crie um ambiente virtual e ative-o:
