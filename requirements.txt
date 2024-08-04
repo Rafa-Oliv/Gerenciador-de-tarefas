@@ -1,0 +1,2 @@
+# Este arquivo está intencionalmente vazio porque o projeto não tem dependências externas
+# Se adicionar dependências no futuro, liste-as aqui
