@@ -1,4 +1,4 @@
-# Task Manager
+# Gerenciador de tarefas
 
 Este é um simples gerenciador de tarefas feito em Python, utilizando SQLite para armazenamento das tarefas. O aplicativo permite adicionar, listar, marcar como concluídas e excluir tarefas.
 
@@ -15,7 +15,7 @@ Este é um simples gerenciador de tarefas feito em Python, utilizando SQLite par
 1. Clone este repositório:
 
     ```sh
-    git clone https://github.com/seu-usuario/task-manager.git
+    git clone https://github.com/Rafa-Oliv/Gerenciador-de-tarefas.git
     cd task-manager
     ```
 
