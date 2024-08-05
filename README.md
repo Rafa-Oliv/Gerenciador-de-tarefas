@@ -47,6 +47,7 @@ Este é um simples gerenciador de tarefas feito em Python, utilizando SQLite par
 - `TaskManager.py`: Arquivo contendo a classe `TaskManager` para gerenciar as tarefas.
 - `Database.py`: Arquivo contendo a classe `Database` para manipulação do banco de dados SQLite.
 - `requirements.txt`: Arquivo com as dependências necessárias (atualmente vazio).
+-  `Executavel`: Pasta que contém o arquivo 'app.exe' versão executável do código.
 
 ## Requisitos
 
